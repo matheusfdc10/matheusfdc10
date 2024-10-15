@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Sejam bem vindos ao meu Github!</h2>
+<h2 align="left">Olá! 👋 Sejam bem vindos ao meu Github!</h2>
 
 ###
 
@@ -13,6 +13,8 @@
 <img align="right" height="150" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp"  />
 -->
 ###
+
+<h2 align="left">Tecnologias que eu uso no meu dia</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
