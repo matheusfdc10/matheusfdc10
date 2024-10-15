@@ -9,8 +9,9 @@
 
 ###
 
+<!--
 <img align="right" height="150" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp"  />
-
+-->
 ###
 
 <div align="left">
@@ -52,6 +53,7 @@
 
 ###
 
+<!-- 
 <img src="https://raw.githubusercontent.com/matheusfdc10/matheusfdc10/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -59,5 +61,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/matheusfdc10/count.svg?"  />
 </div>
-
+-->
 ###
