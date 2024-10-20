@@ -1,4 +1,4 @@
-<h2 align="left">Olá! 👋 Seja bem-vindo ao meu GitHub!</h2>
+<h2 align="left">Olá! 👋 Seja bem-vindo(a) ao meu GitHub!</h2>
 
 <div align="center" style="display: flex; justify-content: space-evenly;"> <img src="https://github-readme-stats.vercel.app/api?username=matheusfdc10&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false" height="150" alt="Estatísticas do GitHub" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfdc10&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="Linguagens mais usadas" /> </div>
 
